@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645703371 source:c:\users\fatecano\desktop\codeblocks\real em dolar\main.c
+	<stdio.h>
+	<stdlib.h>
+

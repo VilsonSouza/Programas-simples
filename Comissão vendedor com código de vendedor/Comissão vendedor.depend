@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646495762 source:c:\users\user\downloads\comissão vendedor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

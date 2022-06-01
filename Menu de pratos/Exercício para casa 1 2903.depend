@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649599834 source:c:\arquivos de aulas\algoritimos\programas simples\menu de pratos\main.c
+	<stdio.h>
+	<stdlib.h>
+

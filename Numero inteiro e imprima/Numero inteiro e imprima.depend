@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649790223 source:c:\users\user\documents\numero inteiro e imprima\main.c
+	<stdio.h>
+	<stdlib.h>
+

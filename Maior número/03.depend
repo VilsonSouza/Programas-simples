@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647004517 source:c:\users\user\documents\03\exercícios de sala 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

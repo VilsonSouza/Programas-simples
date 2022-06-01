@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649790685 source:c:\users\user\documents\quinta parte de um número\main.c
+	<stdio.h>
+	<stdlib.h>
+
